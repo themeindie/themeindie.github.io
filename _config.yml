@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
+title:             Theme Documentation
+email:             themeindie@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           "/"
+url:               "https://themeindie.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  themeindie
+github_username:   themeindie
+facebook_username: themeindie
 
 # Build settings
 markdown:          kramdown
